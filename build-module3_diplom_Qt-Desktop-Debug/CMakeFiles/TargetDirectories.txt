@@ -1,0 +1,4 @@
+/home/max/NTLGY_Home/module3_diplom/module3_diplom_Qt_folder/build-module3_diplom_Qt-Desktop-Debug/CMakeFiles/RaceDynamicLib.dir
+/home/max/NTLGY_Home/module3_diplom/module3_diplom_Qt_folder/build-module3_diplom_Qt-Desktop-Debug/CMakeFiles/RaceExe.dir
+/home/max/NTLGY_Home/module3_diplom/module3_diplom_Qt_folder/build-module3_diplom_Qt-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/max/NTLGY_Home/module3_diplom/module3_diplom_Qt_folder/build-module3_diplom_Qt-Desktop-Debug/CMakeFiles/rebuild_cache.dir

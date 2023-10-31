@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/module3_diplom_Qt.dir/main.cpp.o -o module3_diplom_Qt 

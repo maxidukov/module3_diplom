@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/RaceExe.dir/main.cpp.o -o RaceExe  -Wl,-rpath,/home/max/NTLGY_Home/module3_diplom/module3_diplom_Qt_folder/build-module3_diplom_Qt-Desktop-Debug libRaceDynamicLib.so 
